@@ -1,0 +1,7 @@
+apache-airflow-providers-postgres
+apache-airflow-providers-common-sql
+apache-airflow-providers-amazon
+Faker
+dbt-core
+dbt-redshift
+astronomer-cosmos
